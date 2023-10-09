@@ -94,5 +94,40 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\hamburger_btn_1.png" />
+    <Resource Include="Images\hamburger_btn_2.png" />
+    <Resource Include="Images\hamburger_btn_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\flooding.png" />
+    <Resource Include="Images\rainbow.png" />
+    <Resource Include="Images\celcius.png" />
+    <Resource Include="Images\cloudy.png" />
+    <Resource Include="Images\fahrenheit.png" />
+    <Resource Include="Images\foggy.png" />
+    <Resource Include="Images\hail.png" />
+    <Resource Include="Images\heavy_rain.png" />
+    <Resource Include="Images\low_visability.png" />
+    <Resource Include="Images\partly_cloudy.png" />
+    <Resource Include="Images\rain.png" />
+    <Resource Include="Images\sleet.png" />
+    <Resource Include="Images\snow.png" />
+    <Resource Include="Images\snow_showers.png" />
+    <Resource Include="Images\sunny.png" />
+    <Resource Include="Images\thunderstorms.png" />
+    <Resource Include="Images\tornado.png" />
+    <Resource Include="Images\umbrella.png" />
+    <Resource Include="Images\very_windy.png" />
+    <Resource Include="Images\who_knows.png" />
+    <Resource Include="Images\windy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Clouds.jpg" />
+    <Resource Include="Images\illustrated_clouds.jpg" />
+    <Resource Include="Images\illustrated_park.jpg" />
+    <Resource Include="Images\Sunset_Clouds.jpg" />
+    <Resource Include="Images\tech_clouds.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
