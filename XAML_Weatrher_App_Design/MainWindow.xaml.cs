@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace XAML_Weatrher_App_Design
+namespace XAML_Weather_App_Design
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
